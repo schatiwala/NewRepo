@@ -1,3 +1,5 @@
 Welcome to my lab.
 
 we are writing code
+
+Added a static method.
